@@ -109,7 +109,7 @@ This project is based on the algorithm described in the following research paper
 > **Multi-Race Ant Colony Parallel Chaos Search Method for Path Planning on 3-D Terrain Considering Energy Consumption and Travel Distance**  
 > * Jinlei Wang, Xiaofang Yuan, Guoming Huang, Weihua Tan, and Yaonan Wang*  
 > *IEEE TRANSACTIONS ONVEHICULARTECHNOLOGY,VOL.73,NO.11,NOVEMBER2024*  
->  URL: (https://ieeexplore.ieee.org/document/10568364)
+>  URL: [Research paper](https://ieeexplore.ieee.org/document/10568364)
 > DOI : 10.1109/TVT.2024.3417714
 ---
 
@@ -117,9 +117,9 @@ This project is based on the algorithm described in the following research paper
 
 This project was collaboratively developed by:
 
-- Ragamaie-Nagineni  
-- VishnuDatta510
-- NusraShariff
+- [Ragamaie-Nagineni](https://github.com/Ragamaie-Nagineni)
+- [VishnuDatta510](https://github.com/VishnuDatta510)
+- [NusraShariff](https://github.com/NusraShariff)
 
 ---
 
