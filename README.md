@@ -73,7 +73,7 @@ Follow these steps to run the analysis and use the trained model:
 1.**Clone this repository to your local machine:**
    
    ```bash
-   git clone https://github.com/Ragamaie-Nagineni/MACPCS.git
+   git clone https://github.com/Ragamaie-Nagineni/improved-Multirace_AntColony_ParallelChoas_Search.git
 cd MACPCS
 
    ```
